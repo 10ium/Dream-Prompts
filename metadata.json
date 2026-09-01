@@ -1,0 +1,6 @@
+{
+  "name": "دریم پرامپت • مرجع سیستم‌پرامپت‌های هوش مصنوعی",
+  "description": "مجموعه سیستم‌پرامپت‌های تخصصی، ساختاریافته و مهندسی‌شده هوش مصنوعی به طراحی Dream با قابلیت کپی سریع، شخصی‌سازی متغیرها و راهنمای استفاده",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
